@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=https://deno.land/x/ipm/schema.yaml
+formatOut: svg-react
+outDir: ./public/icons
+icons:
+  - https://iconmonstr.com/discord-1-svg/
+  - https://iconmonstr.com/discord-1-svg/
+  - https://iconmonstr.com/slack-2-svg/
+  - https://iconmonstr.com/linkedin-1-svg/
+  - https://iconmonstr.com/linkedin-1-svg/
+  - https://iconmonstr.com/gmail-1-svg/
+  - https://iconmonstr.com/twitter-1-svg/
+  - https://iconmonstr.com/twitter-1-svg/
+  - https://iconmonstr.com/facebook-messenger-1-svg/
+  - https://iconmonstr.com/facebook-messenger-1-svg/
+  - https://iconmonstr.com/facebook-1-svg/
+  - https://iconmonstr.com/twitch-1-svg/
+  - https://iconmonstr.com/twitch-1-svg/
+  - https://iconmonstr.com/youtube-6-svg/
+  - https://iconmonstr.com/youtube-6-svg/
+  - https://iconmonstr.com/dribbble-1-svg/
+  - https://iconmonstr.com/deviantart-1-svg/
+  - https://iconmonstr.com/flickr-1-svg/
+  - https://iconmonstr.com/instagram-11-svg/
+  - https://iconmonstr.com/instagram-11-svg/
+  - https://iconmonstr.com/blogger-1-svg/
+  - https://iconmonstr.com/github-1-svg/
+  - https://iconmonstr.com/line-1-svg/
+  - https://iconmonstr.com/last-fm-1-svg/
+  - https://iconmonstr.com/medium-1-svg/
+  - https://iconmonstr.com/paypal-1-svg/
+  - https://iconmonstr.com/paypal-1-svg/
+  - https://iconmonstr.com/pinterest-1-svg/
+  - https://iconmonstr.com/skype-1-svg/
+  - https://iconmonstr.com/snapchat-1-svg/
+  - https://iconmonstr.com/soundcloud-1-svg/
+  - https://iconmonstr.com/spotify-1-svg/
+  - https://iconmonstr.com/stackoverflow-1-svg/
+  - https://iconmonstr.com/steam-1-svg/
+  - https://iconmonstr.com/steam-1-svg/
+  - https://iconmonstr.com/whatsapp-1-svg/
+  - https://iconmonstr.com/whatsapp-1-svg/
+  - https://iconmonstr.com/menu-dot-vertical-filled-svg/
+  - https://heroicons.com/?group=solid&icon_name=calculator
+  - name: demoIcon
+    url: data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle r='50' cx='50' cy='50' fill='tomato'/%3E%3Ccircle r='41' cx='47' cy='50' fill='orange'/%3E%3Ccircle r='33' cx='48' cy='53' fill='gold'/%3E%3Ccircle r='25' cx='49' cy='51' fill='yellowgreen'/%3E%3Ccircle r='17' cx='52' cy='50' fill='lightseagreen'/%3E%3Ccircle r='9' cx='55' cy='48' fill='teal'/%3E%3C/svg%3E
+  - https://svgrepo.com/svg/422891/browser-rate-rating
